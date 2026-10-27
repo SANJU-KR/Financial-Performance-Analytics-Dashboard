@@ -231,19 +231,14 @@ This project demonstrates the following technical and analytical skills:
 
 ---
 
-# 👨‍💻 Author
 
-**Ajay Kumar**  
-Data Analyst | Power BI | SQL | Excel  
 
-📧 Email:  
-ajthakur7273@gmail.com  
+## Author
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/ajay6469  
+**Sanju Kumar**
 
-🔗 GitHub:  
-https://github.com/ajay-data-analyst  
+[LinkedIn](http://www.linkedin.com/in/sanjukumar10) &nbsp;|&nbsp; [GitHub](https://github.com/SANJU-KR)
+ 
 
 ---
 
